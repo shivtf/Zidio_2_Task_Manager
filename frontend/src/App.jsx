@@ -23,7 +23,7 @@ function App() {
 		dispatch(setLoading(true));
 		fetch(`${import.meta.env.VITE_BACKEND_URL}/api/user/profile`, {
 			method: "GET",
-			headers: getHeader(),
+			headers: getHeader()
 		})
 			.then((res) => res.json())
 			.then((json) => {
