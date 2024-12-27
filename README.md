@@ -8,6 +8,6 @@ Team Memebers included are
 
 Yatin Singh
 Akshat Nautiyal
-Shivam
+Aryan Tomar
 Vaishnavi
 Chandu Mucharla Jyoti
